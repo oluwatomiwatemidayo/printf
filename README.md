@@ -1,7 +1,7 @@
 # printf
 
 A simple printf function built by Oluwatomiwa and Oluwatobi for Alx software Engineering School.
-# Welcome
+# Welcome 
 
 Rebuild of the standard printf function in C. Our project required a function capable of printing with the %d, %c, %s, and %% specifiers to standard output. printf returns the number of characters printed (excluding the null byte at the end of strings). We were not asked to handle flag characters, field width, precision, or length.
 # Format 
